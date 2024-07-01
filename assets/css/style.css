@@ -1,0 +1,74 @@
+/*Configuracion del color de fondo del cuerpo del documento*/
+body {
+    background: #1f1e1efe;
+    background-color: #1f1e1efe;   
+}
+
+/*Estilo Navbar*/
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+/*Estilo img Navbar*/
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+/*Estilo parrafo del Navbar*/
+.navbar-brand p {
+    margin: 0;
+}
+
+/*Estilo seccion carrusel*/
+#scrollspyHeading1 {
+    background: #1f1e1efe;
+    background-color: #1f1e1efe;
+    margin-top: 0;
+    padding: 0;
+    width: 100%;
+
+}
+ /*Estilo seccion Quienes somos*/
+#scrollspyHeading2 {
+    background: #1f1e1efe;
+    background-color: #1f1e1efe;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color:aliceblue;
+}
+
+/*Estilo seccion destacados*/
+#scrollspyHeading3 {
+    background: #1f1e1efe;
+    background-color: #1f1e1efe;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color:aliceblue;
+}
+
+/*Estilo imagen card seccion Destacados*/
+.card-img {
+    width: 100%;   
+    height: 200px;     
+    object-fit: cover; 
+}
+
+/*Estilo seccion Contacto*/
+#scrollspyHeading4 {
+    background: #1f1e1efe;
+    background-color: #1f1e1efe;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color:aliceblue;
+}
+
+/*Estilo footer*/
+#Redes-sociales {
+    color:aliceblue;
+}
+
